@@ -1,0 +1,12 @@
+#These basically are the output of the week one assignment, based on the inputs shown. However, different inputs can be used to give any output desired.
+
+Enter the amount in US Dollars: 250
+The amount in your local currency is: 43250.0
+Enter the principal amount: 77550
+Enter the rate of interest (as a percentage): 18
+Enter the time period (in years): 2
+The simple interest is: 27918.0      
+Enter your weight in kilograms (kg): 56.9
+Enter your height in meters (m): 5.2
+Your Body Mass Index (BMI) is: 2.104289940828402
+Happy Coding!!!😎
